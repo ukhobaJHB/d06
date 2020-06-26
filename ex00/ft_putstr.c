@@ -6,10 +6,10 @@
 /*   By: ukhoba <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/26 14:12:41 by ukhoba            #+#    #+#             */
-/*   Updated: 2020/06/26 15:41:37 by ukhoba           ###   ########.fr       */
+/*   Updated: 2020/06/26 16:21:40 by ukhoba           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-void    ft_putchar(char c);
+//void    ft_putchar(char c);
 
 void	ft_putstr(char *str)
 {
